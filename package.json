@@ -1,11 +1,24 @@
 {
   "name": "biggest-version-number",
-  "version": "9007199254740991.9007199254740991.9007199254740991",
+  "version": "9007199254740991.9007199254740991.9007199254740991-pre.0",
   "description": "The biggest version number",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "author": "",
-  "license": "ISC"
+  "license": "ISC",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/STRd6/biggest-version-number.git"
+  },
+  "keywords": [
+    "version",
+    "number",
+    "big"
+  ],
+  "bugs": {
+    "url": "https://github.com/STRd6/biggest-version-number/issues"
+  },
+  "homepage": "https://github.com/STRd6/biggest-version-number#readme"
 }
