@@ -1,0 +1,11 @@
+{
+  "name": "biggest-version-number",
+  "version": "9007199254740991.9007199254740991.9007199254740991",
+  "description": "The biggest version number",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC"
+}
